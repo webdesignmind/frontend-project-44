@@ -42,4 +42,4 @@ const questionEven = () => {
   console.log(`Congratulations, ${userName}!`);
 };
 
-export default questionEven();
+questionEven();
